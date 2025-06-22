@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+crawler_milkcap/__init__.py
+crawler_milkcap.egg-info/PKG-INFO
+crawler_milkcap.egg-info/SOURCES.txt
+crawler_milkcap.egg-info/dependency_links.txt
+crawler_milkcap.egg-info/top_level.txt
